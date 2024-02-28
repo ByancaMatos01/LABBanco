@@ -13,7 +13,8 @@
 
 # Forma de criar tabela 
 ![image](https://github.com/ByancaMatos01/LABBanco/assets/122841376/2a447f1b-bcf2-4913-9197-17d6d0cf9cf2)
-* Inserts
+
+# Inserts
 ![image](https://github.com/ByancaMatos01/LABBanco/assets/122841376/b5120a5b-c5fe-4221-a577-c7e8db91fa96)
 
 # Update 
